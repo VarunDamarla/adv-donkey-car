@@ -1,0 +1,9 @@
+[submodule "gym-donkeycar-1"]
+	path = gym-donkeycar-1
+	url = https://github.com/araffin/gym-donkeycar-1.git
+[submodule "aae-train-donkeycar"]
+	path = aae-train-donkeycar
+	url = https://github.com/araffin/aae-train-donkeycar.git
+[submodule "rl-baselines3-zoo"]
+	path = rl-baselines3-zoo
+	url = https://github.com/DLR-RM/rl-baselines3-zoo.git
